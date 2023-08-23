@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/free-vector/digital-binary-code-numbers-background_1017-30371.jpg?w=740&t=st=1692777595~exp=1692778195~hmac=4ffe7aa8edfdf5e6fdc47ec7acd889e4877b382ecb45412f4abd922ad950d2ee)
+![logo](https://img.freepik.com/free-vector/digital-binary-code-numbers-background_1017-30371.jpg?w=500&t=st=1692777595~exp=1692778195~hmac=4ffe7aa8edfdf5e6fdc47ec7acd889e4877b382ecb45412f4abd922ad950d2ee)
 <h1 align="center">Hi 👋, I'm Imran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="350" height="250"src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" />
